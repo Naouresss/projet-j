@@ -1,0 +1,18 @@
+export const API_URLS={
+USER_URL:'http://localhost:8080/user',
+STRUCTURES_URL: 'http://localhost:8080/structure',
+CATEGORIES_URL: 'http://localhost:8080/categorie',
+SOUSCATEGORIES_URL: 'http://localhost:8080/souscategorie',
+ARTICLES_URL: 'http://localhost:8080/article',
+MAGASINS_URL: 'http://localhost:8080/magasin',
+DEPARTEMENTS_URL: 'http://localhost:8080/departement',
+ROLES_URL: 'http://localhost:8080/role',
+BONS_URL: 'http://localhost:8080/bondecommand',
+BONSE_URL: 'http://localhost:8080/bondecommandexterne',
+ARTS_URL: 'http://localhost:8080/articlebde',
+STRSS_URL: 'http://localhost:8080/strart',
+BD_URL: 'http://localhost:8080/bdarticle',
+AUTH_URL: 'http://localhost:8080/auth',
+FOUR_URL: 'http://localhost:8080/fournisseur',
+CONTACT_URL: 'http://localhost:8080/contact',
+}
